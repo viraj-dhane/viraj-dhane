@@ -1,6 +1,6 @@
 # About Me
 
-Data and Business Intelligence Analyst with 3+ years of experience in tech, consulting, and marketing. My goal is to bridge the gap between data and strategic decision-making.
+Data and Business Intelligence Analyst with 4 years of experience in tech, consulting, and marketing. My goal is to bridge the gap between data and strategic decision-making.
 
 Skilled in leading BI initiatives through agile workflows, stakeholder alignment, and cross-functional teamwork.
 Proficient in SQL, Python, R, Tableau, MS Power BI, Cloud Computing (AWS, Snowflake, Azure, GCP), Google Analytics, Project Management, and many more...
